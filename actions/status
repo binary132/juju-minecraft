@@ -1,0 +1,3 @@
+#!/bin/bash
+results=`service minecraft status`
+action-set status="$results"

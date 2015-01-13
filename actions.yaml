@@ -1,0 +1,10 @@
+stop:
+  description: Stop the Minecraft Server
+restart:
+  description: Restart Minecraft Server
+update:
+  description: Update the Minecraft Server
+status:
+  description: Determine the run status of the Minecraft Server
+backup:
+  description: Perform a save and archival of the current map
